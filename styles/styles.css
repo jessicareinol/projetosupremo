@@ -136,13 +136,17 @@ h1, h2, h3 {
 
 /* REDES SOCIAIS */
 
-.main-redes-sociais{
+.main-redes-sociais {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   padding: 20px;
-  text-align: center;
 }
 
 .redes-sociais {
   display: flex;
+  flex-direction: column;
+  align-items: center;
   gap: 20px;
 }
 
