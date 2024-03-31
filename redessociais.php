@@ -64,25 +64,25 @@
                 <p>Nos acompanhe nas nossas redes sociais:</p>
                 <div class="redes-sociais">
                     <div>
-                        <a href="https://www.facebook.com">
+                        <a href="https://www.facebook.com" target="_blank">
                             <img src="imagens/logo_facebook.png" alt="Logotipo do Facebook" width="30" height="30">
                             Facebook
                         </a>
                     </div>
                     <div>
-                        <a href="https://www.instagram.com/supremo.engenharia/">
+                        <a href="https://www.instagram.com/supremo.engenharia/" target="_blank">
                             <img src="imagens/logo_instagram.png" alt="Logotipo do Instagram" width="30" height="30">
                             Instagram
                         </a>
                     </div>
                     <div>
-                        <a href="https://www.linkedin.com">
+                        <a href="https://www.linkedin.com" target="_blank">
                             <img src="imagens/logo_linkedin.png" alt="Logotipo do Linkedin" width="30" height="30">
                             LinkedIn
                         </a>
                     </div>
                     <div>
-                        <a href="https://www.youtube.com">
+                        <a href="https://www.youtube.com" target="_blank">
                             <img src="imagens/logo_youtube.png" alt="Logotipo do Youtube" width="30" height="30">
                             YouTube
                         </a>
